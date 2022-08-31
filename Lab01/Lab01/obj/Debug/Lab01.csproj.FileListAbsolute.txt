@@ -1,0 +1,14 @@
+C:\ClonRepo\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+C:\ClonRepo\Lab01\Lab01\obj\Debug\Lab01.csproj.SuggestedBindingRedirects.cache
+C:\ClonRepo\Lab01\Lab01\obj\Debug\Lab01.Form1.resources
+C:\ClonRepo\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\ClonRepo\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\ClonRepo\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\ClonRepo\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\ClonRepo\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\ClonRepo\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\ClonRepo\Lab01\Lab01\bin\Debug\Newtonsoft.Json.dll
+C:\ClonRepo\Lab01\Lab01\bin\Debug\Newtonsoft.Json.xml
+C:\ClonRepo\Lab01\Lab01\obj\Debug\Lab01.csproj.CopyComplete
+C:\ClonRepo\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\ClonRepo\Lab01\Lab01\obj\Debug\Lab01.pdb

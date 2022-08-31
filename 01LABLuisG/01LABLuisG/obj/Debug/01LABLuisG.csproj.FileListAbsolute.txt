@@ -1,0 +1,14 @@
+C:\ClonRepo\01LABLuisG\01LABLuisG\bin\Debug\01LABLuisG.exe.config
+C:\ClonRepo\01LABLuisG\01LABLuisG\bin\Debug\01LABLuisG.exe
+C:\ClonRepo\01LABLuisG\01LABLuisG\bin\Debug\01LABLuisG.pdb
+C:\ClonRepo\01LABLuisG\01LABLuisG\bin\Debug\Newtonsoft.Json.dll
+C:\ClonRepo\01LABLuisG\01LABLuisG\bin\Debug\Newtonsoft.Json.xml
+C:\ClonRepo\01LABLuisG\01LABLuisG\obj\Debug\01LABLuisG.csproj.AssemblyReference.cache
+C:\ClonRepo\01LABLuisG\01LABLuisG\obj\Debug\01LABLuisG.csproj.SuggestedBindingRedirects.cache
+C:\ClonRepo\01LABLuisG\01LABLuisG\obj\Debug\_01LABLuisG.Form1.resources
+C:\ClonRepo\01LABLuisG\01LABLuisG\obj\Debug\_01LABLuisG.Properties.Resources.resources
+C:\ClonRepo\01LABLuisG\01LABLuisG\obj\Debug\01LABLuisG.csproj.GenerateResource.cache
+C:\ClonRepo\01LABLuisG\01LABLuisG\obj\Debug\01LABLuisG.csproj.CoreCompileInputs.cache
+C:\ClonRepo\01LABLuisG\01LABLuisG\obj\Debug\01LABLuisG.csproj.CopyComplete
+C:\ClonRepo\01LABLuisG\01LABLuisG\obj\Debug\01LABLuisG.exe
+C:\ClonRepo\01LABLuisG\01LABLuisG\obj\Debug\01LABLuisG.pdb
