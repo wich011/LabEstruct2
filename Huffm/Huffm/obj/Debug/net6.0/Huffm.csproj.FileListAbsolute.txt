@@ -1,0 +1,17 @@
+C:\Ciclo 5\Estruct\Huffm\Huffm\bin\Debug\net6.0\Huffm.exe
+C:\Ciclo 5\Estruct\Huffm\Huffm\bin\Debug\net6.0\Huffm.deps.json
+C:\Ciclo 5\Estruct\Huffm\Huffm\bin\Debug\net6.0\Huffm.runtimeconfig.json
+C:\Ciclo 5\Estruct\Huffm\Huffm\bin\Debug\net6.0\Huffm.dll
+C:\Ciclo 5\Estruct\Huffm\Huffm\bin\Debug\net6.0\ref\Huffm.dll
+C:\Ciclo 5\Estruct\Huffm\Huffm\bin\Debug\net6.0\Huffm.pdb
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.csproj.AssemblyReference.cache
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.AssemblyInfoInputs.cache
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.AssemblyInfo.cs
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.csproj.CoreCompileInputs.cache
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.dll
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\ref\Huffm.dll
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.pdb
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.genruntimeconfig.cache
+C:\Ciclo 5\Estruct\Huffm\Huffm\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.csproj.CopyComplete
