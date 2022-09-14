@@ -1,0 +1,11 @@
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\bin\Debug\Lab02LuisG.exe.config
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\bin\Debug\Lab02LuisG.exe
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\bin\Debug\Lab02LuisG.pdb
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\obj\Debug\Lab02LuisG.csproj.AssemblyReference.cache
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\obj\Debug\Lab02LuisG.csproj.SuggestedBindingRedirects.cache
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\obj\Debug\Lab02LuisG.Form1.resources
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\obj\Debug\Lab02LuisG.Properties.Resources.resources
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\obj\Debug\Lab02LuisG.csproj.GenerateResource.cache
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\obj\Debug\Lab02LuisG.csproj.CoreCompileInputs.cache
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\obj\Debug\Lab02LuisG.exe
+C:\ClonRepo\Lab02LuisG\Lab02LuisG\obj\Debug\Lab02LuisG.pdb

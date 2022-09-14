@@ -59,7 +59,7 @@ namespace _01LABLuisG
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label7.Text = listBox1.Items.Count.ToString();
+           
             listBox1.Items.Clear();
             listBox2.Items.Clear();
             listBox3.Items.Clear();
@@ -86,7 +86,7 @@ namespace _01LABLuisG
                             //Separar
                             string[] informacion = lineaActual.Split(';');
                             var u = JsonConvert.DeserializeObject(informacion[1]);
-                            
+                             
                             if(informacion[0] == "INSERT" || informacion[0] == "DELETE")
                             {
                                 
@@ -128,6 +128,7 @@ namespace _01LABLuisG
 
         private void button2_Click(object sender, EventArgs e)
         {
+            listBox2.Items.Clear();
             if (GetUsuarios() != null)
             {
                 try
@@ -146,22 +147,14 @@ namespace _01LABLuisG
 
                             if (informacion[0] == "DELETE")
                             {
-                                listBox2.Items.Remove(u.ToString());
+                                listBox2.Items.Add(u.ToString());
                             }
 
 
 
 
                             //Guardar informacion
-                            personaList.Add(new Separacion()
-                            {
-
-                                ini = informacion[0],
-                                archjson = informacion[1]
-
-
-
-                            });
+                          
 
 
                         }
@@ -182,6 +175,7 @@ namespace _01LABLuisG
 
         private void button3_Click(object sender, EventArgs e)
         {
+            listBox3.Items.Clear();
             if (GetUsuarios() != null)
             {
                 try
@@ -444,6 +438,11 @@ namespace _01LABLuisG
                 }
 
             }
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
