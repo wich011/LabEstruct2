@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "689If4OS41seJdvL86kSsXdBB+ELPY0+U5UKv7RfnwIJlPmLu/OmXQU/pv2FpV1H6JmNv9O6MwQzHts8BRHMsg==",
+  "dgSpecHash": "WTMJ4bEiH/btZtnhslCBk6ET3gDP6SsgBtqXm8PdSJS8Gq187PUMmkLyacn1NcNnfd3ZW5vAKwQYkdWeJmWV6g==",
   "success": true,
-  "projectFilePath": "C:\\Ciclo 5\\Estruct\\Huffm\\Huffm\\Huffm.csproj",
+  "projectFilePath": "C:\\ClonRepo\\Huffm\\Huffm\\Huffm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oscar José\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

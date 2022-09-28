@@ -99,6 +99,7 @@ namespace LAb02
                                                 var info5 = informacion4[1];
                                             }
 
+
                                 if (info4.Contains(companie) && informacion[0] == "PATCH")
                                 {
                                     

@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ciclo 5\\Estruct\\Huffm\\Huffm\\Huffm.csproj",
+      "projectUniqueName": "C:\\ClonRepo\\Huffm\\Huffm\\Huffm.csproj",
       "projectName": "Huffm",
-      "projectPath": "C:\\Ciclo 5\\Estruct\\Huffm\\Huffm\\Huffm.csproj",
+      "projectPath": "C:\\ClonRepo\\Huffm\\Huffm\\Huffm.csproj",
       "packagesPath": "C:\\Users\\Oscar José\\.nuget\\packages\\",
-      "outputPath": "C:\\Ciclo 5\\Estruct\\Huffm\\Huffm\\obj\\",
+      "outputPath": "C:\\ClonRepo\\Huffm\\Huffm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oscar José\\AppData\\Roaming\\NuGet\\NuGet.Config",

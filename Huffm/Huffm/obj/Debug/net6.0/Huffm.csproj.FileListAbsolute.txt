@@ -15,3 +15,20 @@ C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.pdb
 C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.genruntimeconfig.cache
 C:\Ciclo 5\Estruct\Huffm\Huffm\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Ciclo 5\Estruct\Huffm\Huffm\obj\Debug\net6.0\Huffm.csproj.CopyComplete
+C:\ClonRepo\Huffm\Huffm\bin\Debug\net6.0\Huffm.exe
+C:\ClonRepo\Huffm\Huffm\bin\Debug\net6.0\Huffm.deps.json
+C:\ClonRepo\Huffm\Huffm\bin\Debug\net6.0\Huffm.runtimeconfig.json
+C:\ClonRepo\Huffm\Huffm\bin\Debug\net6.0\Huffm.dll
+C:\ClonRepo\Huffm\Huffm\bin\Debug\net6.0\ref\Huffm.dll
+C:\ClonRepo\Huffm\Huffm\bin\Debug\net6.0\Huffm.pdb
+C:\ClonRepo\Huffm\Huffm\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\Huffm.csproj.AssemblyReference.cache
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\Huffm.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\Huffm.AssemblyInfoInputs.cache
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\Huffm.AssemblyInfo.cs
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\Huffm.csproj.CoreCompileInputs.cache
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\Huffm.csproj.CopyComplete
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\Huffm.dll
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\ref\Huffm.dll
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\Huffm.pdb
+C:\ClonRepo\Huffm\Huffm\obj\Debug\net6.0\Huffm.genruntimeconfig.cache

@@ -35,7 +35,7 @@ namespace _01LABLuisG
 
         List<Variables> personaList2 = new List<Variables>();
         List<Separacion> personaList = new List<Separacion>();
-        private static string _path = @"C:\ClonRepo\input.csv";
+        private static string _path = @"C:\Users\Oscar José\Downloads\NN.csv";
 
         public static string GetUsuarios()
         {
