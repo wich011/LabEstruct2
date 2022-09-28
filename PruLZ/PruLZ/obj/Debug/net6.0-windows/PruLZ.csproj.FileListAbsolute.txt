@@ -1,0 +1,17 @@
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\bin\Debug\net6.0-windows\PruLZ.exe
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\bin\Debug\net6.0-windows\PruLZ.deps.json
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\bin\Debug\net6.0-windows\PruLZ.runtimeconfig.json
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\bin\Debug\net6.0-windows\PruLZ.dll
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\bin\Debug\net6.0-windows\ref\PruLZ.dll
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\bin\Debug\net6.0-windows\PruLZ.pdb
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.csproj.AssemblyReference.cache
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.Form1.resources
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.csproj.GenerateResource.cache
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.AssemblyInfoInputs.cache
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.AssemblyInfo.cs
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.csproj.CoreCompileInputs.cache
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.dll
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\ref\PruLZ.dll
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.pdb
+C:\Ciclo 5\Estruct\PruLZ\PruLZ\obj\Debug\net6.0-windows\PruLZ.genruntimeconfig.cache
