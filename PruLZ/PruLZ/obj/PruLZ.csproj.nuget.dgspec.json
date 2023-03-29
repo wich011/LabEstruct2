@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ciclo 5\\Estruct\\PruLZ\\PruLZ\\PruLZ.csproj": {}
+    "C:\\ClonRepo\\PruLZ\\PruLZ\\PruLZ.csproj": {}
   },
   "projects": {
-    "C:\\Ciclo 5\\Estruct\\PruLZ\\PruLZ\\PruLZ.csproj": {
+    "C:\\ClonRepo\\PruLZ\\PruLZ\\PruLZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ciclo 5\\Estruct\\PruLZ\\PruLZ\\PruLZ.csproj",
+        "projectUniqueName": "C:\\ClonRepo\\PruLZ\\PruLZ\\PruLZ.csproj",
         "projectName": "PruLZ",
-        "projectPath": "C:\\Ciclo 5\\Estruct\\PruLZ\\PruLZ\\PruLZ.csproj",
+        "projectPath": "C:\\ClonRepo\\PruLZ\\PruLZ\\PruLZ.csproj",
         "packagesPath": "C:\\Users\\Oscar José\\.nuget\\packages\\",
-        "outputPath": "C:\\Ciclo 5\\Estruct\\PruLZ\\PruLZ\\obj\\",
+        "outputPath": "C:\\ClonRepo\\PruLZ\\PruLZ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oscar José\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,7 +12,7 @@ namespace LAb02
     class Test
     {
         
-        private static string _path = @"C:\ClonRepo\NewInput.csv";
+        private static string _path = @"C:\Ciclo 5\Estruct\input_challenge.txt";
         public static string _path2 = @"C:\ClonRepo\FILES\DPIS.txt";
         public static string GetUsuarios()
         {
@@ -39,22 +39,29 @@ namespace LAb02
             string deco="";
             string[] arreglo = new string[1000];
             string[] arreglo2 = new string[1000];
-
+            int conT = 0;
+            int conP = 1;
             Console.Title = "LuisGironHuffman";
             int Opciones;
             BitArray encode = null;
             //string decode = arbolHH.Decodificacion(encode);
-            do
-            {
+           
                 var infodd = "";
                 var info1 = "";
+            var infoN = "";
+            var infoD = "";
+            var infoG = "";
+            string[] informacion1 = { };
+            string[] informacionP3 = { };
+            string[] informacionP2 = { };
+            string[] separI22 = { };
+            int c = 0, b=0,a=0;
 
 
 
-                Console.WriteLine("Holiwis");
+                Console.WriteLine("Lab_Mady_Donis");
 
-                        Console.WriteLine("Write him favorite companie");
-                        string companie = Console.ReadLine();
+                        
 
                         if (GetUsuarios() != null && contador ==con)
                         {
@@ -67,95 +74,102 @@ namespace LAb02
                                    
                                         if (!string.IsNullOrEmpty(lineaActual) && contador == con)
                                         {
-                                            string[] informacion = lineaActual.Split(';');
-                                            var u = JsonConvert.DeserializeObject(informacion[1]);
-                                            
-                                            info1 = informacion[1];
+                                 conT = 0;
+                                string[] informacion = lineaActual.Split("input1"+'"');
+                                            var u = (informacion[1]);
+                            string[] comp = u.Split('"');
+                            var comp1 = comp[0];
+                            var comp2 = comp[0];
 
-
-                                            string[] informacion1 = info1.Split(':');
-                                            var info2 = informacion1[7];
-                                            var infoN = informacion1[1];
-                                            var infoD = informacion1[2];
-
-
-
-                                            string[] informacionN = infoN.Split(',');
-                                            var infonn = informacionN[0];
-
-
-                                            string[] informacionD = infoD.Split(',');
-                                            infodd = informacionD[0];
-
-
-                                            string[] informacion2 = info2.Split('[');
-                                            var info3 = informacion2[1];
-
-                                            string[] informacion3 = info3.Split(']');
-                                            var info4 = informacion3[0];
-                                            if (info4.Contains(','))
-                                            {
-                                                string[] informacion4 = info4.Split(',');
-                                                var info5 = informacion4[1];
-                                            }
-
-
-                                if (info4.Contains(companie) && informacion[0] == "PATCH")
-                                {
-                                    
-
-                                    Console.Write(infonn + ": ");
-                                    string input = infodd;
-                                    ARBOLH arbolH = new ARBOLH();
-
-                                    arbolH.Construccion(input);
-
-                                    encode = arbolH.Codificacion(input);
-
-                                    Console.Write("Codificacion: ");
-                                    foreach (bool bit in encode)
-                                    {
-
-                                        Console.Write((bit ? 1 : 0) + "");
-                                    }
-                                    Console.WriteLine();
-                                    
-                                     deco = arbolH.Decodificacion(encode);
-
-                                    streamWriter.WriteLine(deco);
-
-                                   
-                                        arreglo[i] = infodd;
-                                    arreglo2[i] = u.ToString();
-
-                                    i++;
-                                    
-
-
-
-                                    streamWriter.WriteLine(arreglo);
-                                }
-
-
-                                        }
-                            if (string.IsNullOrEmpty(lineaActual))
+                            if (comp[0] == ":[{")
                             {
-                                con--;
-                                Console.WriteLine("DPI a buscar");
-                                string DPI = Console.ReadLine();
-                                for (int j = 0; j < arreglo.Length; j++)
-                                {
-                                   
-                                    if (DPI == arreglo[j])
-                                    {
-                                        Console.WriteLine("LSTO " + arreglo2[j]);
-                                        break;
-                                    }
+                                info1 = informacion[1];
+                                informacion1 = info1.Split(':' + "[{");
+                                infoN = informacion1[1];
+                                infoD = informacion1[1];
+                            }else
+                            {
+                                info1 = informacion[1];
+                                informacion1 = info1.Split(':' + "[{}" + ',');
+                                infoN = informacion1[1];
+                                infoD = informacion1[1];
+                            }
+                                            
+                                            
 
+
+
+                                            
+
+
+
+                                            string[] informacionN = infoN.Split('{');
+                                            var infonn = informacionN[1];
+
+
+                                            string[] informacionD = infoD.Split("],");
+                                            infodd = informacionD[1];
+                                            var info3 = informacionD[0];
+                            
+                            string[] informacionP = info3.Split(","+'"');
+                            
+                            informacionP2 = info3.Split("},{");
+                           
+                           
+
+                            string[] separI2 = infodd.Split('[');
+                            var info4 = separI2[1];
+
+                            string[] separI21 = info4.Split(']');
+                            var info5 = separI21[0];
+
+                            separI22 = info5.Split(',');
+                            for (c = 0; c < informacionP2.Length; c++)
+                            {
+                                infoG = informacionP2[c];
+                                informacionP3 = infoG.Split(',');
+                                while (b < informacionP3.Length)
+                                {
+                                    while (a < separI22.Length)
+                                    {
+                                        if (informacionP3[b].Contains(separI22[a] + ":true") && informacionP3[b].Contains(separI22[a]) && separI22[a] != null)
+                                        {
+                                            conT++;
+                                           
+                                        }
+
+                                        a++;
+                                    }
+                                    b++;
+                                    a = 0;
                                 }
-                                
+                                b = 0;
 
                             }
+                           
+
+
+
+                            //for (int b = 0; b < informacionP.Length; b++)
+                            //{
+                            //    for (int a = 0; a < separI22.Length; a++)
+                            //    {
+                            //        if (informacionP[b].Contains(separI22[a]+":true") && informacionP[b].Contains(separI22[a]) && separI22[a] != null)
+                            //        {
+                            //            conT++;
+                            //        }
+                                    
+                                    
+                            //    }
+                            //}
+
+                            Console.WriteLine("puntuacion de usuario " + conP + " fue de: " + conT);
+                            conP++;
+                            b = 0;
+                            a = 0;
+
+                        }
+                          
 
                         }
 
@@ -167,14 +181,11 @@ namespace LAb02
                             }
 
                         }//
-               
 
+            
                 streamWriter.Close();
                         
-                Console.WriteLine("Desea continuar: Si 1, No 0");
-                decision = Convert.ToInt32(Console.ReadLine());
-
-            } while (decision==1);
+                
            
         }
 
